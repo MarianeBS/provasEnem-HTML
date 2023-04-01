@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paragraph {
+    font-size: 18px;
+    text-align: justify;
+    margin: 20px;
+}
+
+.bold {
+    font-style: bold;
+}
+
+h1 {
+    margin-top: 25px;
+    font-size: 35px;
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+}
+
+h2 {
+    margin-top: 18px;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+th {
+    font-size: 16px;
+    color: white;
+}
+
+.back-table {
+    background-color: black;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.image {
+    width: 70%;
+    height: 70%;
+}
+
